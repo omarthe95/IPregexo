@@ -11,7 +11,7 @@ setuptools.setup(
     description="Validating and classifying IPv4 address",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/omarthe95/IPregex",
+    url="https://github.com/omarthe95/IPregexo",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
