@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="IPregex", 
+    name="IPregexo", 
     version="0.0.1",
     author="Omar Adil",
     author_email="xomaradilxa@gmail.com",
