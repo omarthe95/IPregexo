@@ -1,10 +1,22 @@
-from setuptools import setup
-setup(name='IPregex',
-version='0.1',
-description='Validating and classifying IPv4 address ',
-url='https://github.com/omarthe95/IPregex',
-author='Omar Adil',
-author_email='xomaradilxa@gmail.com',
-license='MIT',
-packages=['IPregex'],
-zip_safe=False)
+import setuptools
+
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
+setuptools.setup(
+    name="IPregex", 
+    version="0.0.1",
+    author="Omar Adil",
+    author_email="xomaradilxa@gmail.com",
+    description="Validating and classifying IPv4 address",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="https://github.com/omarthe95/IPregex",
+    packages=setuptools.find_packages(),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
+    ],
+    python_requires='>=3.5',
+)
