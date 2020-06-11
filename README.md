@@ -22,7 +22,7 @@ pip3 --version
 ```
 pip3 install IPregexo
 ```
-Take care PyPi packages are case sensitive
+Take care PyPi packages name are case sensitive
 
 
 
