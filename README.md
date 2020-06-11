@@ -30,9 +30,13 @@ from IPregexo import IPregexo
 ```
 
 ### Examples:
-* 1. Check vaild ip format and print message if so
+* 1. Check vaild IP format and print message if so.
 <img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_message_1.PNG">
 <img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_message_2.PNG">
+
+* 2. Check vaild IP format and return Boolean result if so.
+<img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_Boolean_1.PNG">
+<img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_Boolean_2.PNG">
 
 ## Authors
 
