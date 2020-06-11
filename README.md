@@ -39,7 +39,7 @@ from IPregexo import IPregexo
 <img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_Boolean_2.PNG">
 
 
-
+### Commands:
 | Command | Description |
 | --- | --- |
 | `check_IP` | Vaildate IP *format* and print **Message** |
