@@ -23,3 +23,18 @@ pip3 --version
 pip3 install IPregexo
 ```
 Take care PyPi packages are case sensitive
+
+
+
+
+
+
+## Authors
+
+* **Omar Adil** - *Network Engineer* - [Linkedin](https://www.linkedin.com/in/OmarAdil)
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
