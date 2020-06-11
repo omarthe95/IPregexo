@@ -15,3 +15,11 @@ python3 --version
 ```
 pip3 --version
 ```
+
+### Installing:
+
+* Download and install IPregexo python package
+```
+pip3 install IPregexo
+```
+Take care PyPi packages are case sensitive
