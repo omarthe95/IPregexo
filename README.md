@@ -24,10 +24,15 @@ pip3 install IPregexo
 ```
 Take care PyPi packages name are case sensitive
 
+* Import IPrexego on every python script you want to use it on
+```
+from IPregexo import IPregexo
+```
 
-
-
-
+### Examples:
+* 1. Check vaild ip format and print message if so
+<img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_message_1.PNG">
+<img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_message_2.PNG">
 
 ## Authors
 
