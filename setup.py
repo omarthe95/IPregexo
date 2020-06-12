@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="IPregexo", 
-    version="0.0.1",
+    version="0.0.2",
     author="Omar Adil",
     author_email="xomaradilxa@gmail.com",
     description="Validating and classifying IPv4 address",
