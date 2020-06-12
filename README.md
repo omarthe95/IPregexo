@@ -33,13 +33,16 @@ from IPregexo import IPregexo
 * 1. Check vaild IP format and print **message** if so.
 <img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_message_1.PNG">
 <img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_message_2.PNG">
-![](https://raw.githubusercontent.com/omarthe95/Resources/master/IPregexo/check_IP_message_1.PNG)
 
 
 * 2. Check vaild IP format and return **Boolean** result if so.
 <img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_Boolean_1.PNG">
 <img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_Boolean_2.PNG">
 
+
+* 3. Using if *statemnt* with IP Class C check **Boolean**.
+<img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_Private_C_Boolean_if_statment_1.PNG">
+<img src="https://github.com/omarthe95/Resources/blob/master/IPregexo/check_IP_Private_C_Boolean_if_statment_2.gif">
 
 ### Commands:
 | Command | Description |
